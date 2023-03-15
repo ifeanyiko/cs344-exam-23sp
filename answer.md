@@ -1,0 +1,1 @@
+Softmax is an important component in the design of a classifier, particularly in multi-class classification problems. It is used to transform the output of the classifier, which is typically a vector of real-valued scores (logits), into a probability distribution over the possible classes.
